@@ -8,9 +8,9 @@ It helps track request volumes, resolution timelines, and categories of issues.
 ---
 
 ## 📂 Files in this Repository
-- `Service_Requests.xlsx` → Raw dataset used in Tableau.
-- `Maintenance_Tracker_Dashboard.twbx` → Tableau packaged workbook (dashboard).
-- `Dashboard_Screenshot.png` → Screenshot preview of the dashboard.
+- `maintenance_requests_clean_v2.xlsx` → Raw dataset used in Tableau.
+- `Maintenance_Request_Tracker_Dashboard.twbx` → Tableau packaged workbook (dashboard).
+- `Dashboard.png` → Screenshot preview of the dashboard.
 
 ---
 
@@ -42,6 +42,14 @@ It helps track request volumes, resolution timelines, and categories of issues.
 
 ---
 
+## 🌟 Key Highlights  
+- Clean, user-friendly interface with modern design elements.  
+- KPI cards that give quick insights at a glance.  
+- Fully interactive dashboard with filters for flexibility.  
+- Helps housing community managers make **data-driven decisions** on maintenance priorities.  
+
+---
+
 ## 📌 Author
-Created by Shreya Sah
+Created by **Shreya Sah**
 
