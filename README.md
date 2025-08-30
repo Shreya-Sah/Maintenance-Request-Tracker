@@ -28,12 +28,19 @@ This project shows a live tracker showing request types, progress status, and re
 
 ---
 
-
 ## 🚀 How to Use
-1. Download `Maintenance_Tracker_Dashboard.twbx`.
-2. Open in Tableau Public/Desktop.
-3. Connect to the provided Excel dataset if needed.
-4. Explore the interactive dashboard.
+You have **two options** to explore the dashboard:
+
+### 🔹 Option 1: Download & Open in Tableau
+1. Download `Maintenance_Tracker_Dashboard.twbx` from this repository.  
+2. Open it in **Tableau Public/Desktop**.  
+3. Connect to the provided Excel dataset (`maintenance_requests_clean_v2.xlsx`) if needed.  
+4. Explore the interactive dashboard on your system.  
+
+### 🔹 Option 2: View the Live Interactive Dashboard (Recommended 🎯)
+Skip the download! Simply view and interact with the dashboard directly on Tableau Public:  
+👉 [Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/shreya.sah1178/viz/Maintenance_Request_Tracker_Dashboard/Maintenance_Request_Tracker_Dashboard?publish=yes)
+
 
 ---
 
