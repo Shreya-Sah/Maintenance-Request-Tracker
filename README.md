@@ -23,7 +23,7 @@ This project shows a live tracker showing request types, progress status, and re
   - **Total Requests** → Overall count of requests.  
   - **Pending Requests** → Number of unresolved requests.  
   - **Completed Requests** → Number of resolved requests.  
-  - *Styled with white text, soft shadows, and rounded corners for a modern professional appearance.*  
+  - *Styled with white text and soft shadows for a modern professional appearance.*  
 - 🎛️ **Interactive Filters** → Slice data by *Month* and *Category* to focus on specific insights.  
 
 ---
