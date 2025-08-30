@@ -14,6 +14,18 @@ It helps track request volumes, resolution timelines, and categories of issues.
 
 ---
 
+## 📊 Dashboard Features  
+- 📈 **Monthly Trend of Requests** → Track service requests over time with a clean line/bar chart.  
+- 🏷️ **Category-Wise Breakdown** → Understand which areas (Plumbing, Electrical, Cleaning, etc.) have the most requests.  
+- 🔑 **KPI Cards with Modern Look** →  
+  - **Total Requests** → Overall count of requests.  
+  - **Pending Requests** → Number of unresolved requests.  
+  - **Completed Requests** → Number of resolved requests.  
+  - *Styled with white text, soft shadows, and rounded corners for a modern professional appearance.*  
+- 🎛️ **Interactive Filters** → Slice data by *Month* and *Category* to focus on specific insights.  
+
+---
+
 ## 📊 Dashboard Features
 - Monthly trend of service requests.
 - Category-wise breakdown of requests.
