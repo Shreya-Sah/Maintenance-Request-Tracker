@@ -3,6 +3,8 @@ A Tableau dashboard and dataset to monitor housing community maintenance request
 
 This project is a **Tableau dashboard** built using an Excel dataset of service requests.  
 It helps track request volumes, resolution timelines, and categories of issues.
+This project tracks incoming service requests, their types, response times, and resolution status.
+This project shows a live tracker showing request types, progress status, and response effectiveness.
 
 
 ---
