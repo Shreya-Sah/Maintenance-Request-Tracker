@@ -28,13 +28,6 @@ This project shows a live tracker showing request types, progress status, and re
 
 ---
 
-## 📊 Dashboard Features
-- Monthly trend of service requests.
-- Category-wise breakdown of requests.
-- KPI cards (Total Requests, Pending, Completed).
-- Interactive filters (Month, Category).
-
----
 
 ## 🚀 How to Use
 1. Download `Maintenance_Tracker_Dashboard.twbx`.
