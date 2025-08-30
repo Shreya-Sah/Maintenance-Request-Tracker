@@ -42,6 +42,12 @@ It helps track request volumes, resolution timelines, and categories of issues.
 
 ---
 
+## 🔗 Live Dashboard  
+You can view the interactive dashboard directly on **Tableau Public** here:  
+👉 [Click to View Dashboard](https://public.tableau.com/app/profile/shreya.sah1178/viz/Maintenance_Request_Tracker_Dashboard/Maintenance_Request_Tracker_Dashboard?publish=yes)  
+
+---
+
 ## 📸 Dashboard Preview
 ![Dashboard Screenshot](Dashboard.png)
 
